@@ -1,0 +1,18 @@
+{
+  "projects": [
+    { "repo": "OmniRoute",
+      "description": "Free MIT AI gateway with one endpoint to 290+ providers and 500+ models, quota-aware fallback, and token-saving compression." },
+    { "repo": "Atheris-Online-Compiler",
+      "description": "A multi-language online code editor and execution platform for writing and running code in the browser." },
+    { "repo": "Atheris-Hotel-Web",
+      "description": "A hotel booking and management web application." },
+    { "repo": "Ludhiana-VCC",
+      "description": "A full website built for Ludhiana Village Cricket Club, from features to deployment." },
+    { "repo": "naseer-s-ecommerce-store",
+      "description": "A full-stack e-commerce store with product listings, cart, and checkout flow." },
+    { "repo": "taskflow",
+      "description": "A task management application for organizing and tracking work." },
+    { "repo": "Calculator",
+      "description": "My first project — a calculator app." }
+  ]
+}
