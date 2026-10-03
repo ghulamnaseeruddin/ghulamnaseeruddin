@@ -126,6 +126,15 @@ and I like figuring out how things work under the hood.
 <table>
 <tr>
 <td width="50%">
+  <a href="https://github.com/ghulamnaseeruddin/Yes-Bike">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-OmniRoute-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-OmniRoute-light.svg">
+      <img src="assets/card-OmniRoute-dark.svg" width="420" alt="OmniRoute">
+    </picture>
+  </a>
+</td>
+<td width="50%">
   <a href="https://github.com/ghulamnaseeruddin/OmniRoute">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-OmniRoute-dark.svg">
