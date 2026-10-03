@@ -202,8 +202,9 @@ and I like figuring out how things work under the hood.
 
 | project | live | stack |
 |---|---|---|
+| **[Yes Bike Store](https://github.com/ghulamnaseeruddin/Yes-Bike)** |[yes-bike....app](https://yes-bike.vercel.app) | `TypeScript|
 | **[OmniRoute](https://github.com/ghulamnaseeruddin/OmniRoute)** | — | `MIT` `AI Gateway` |
-| **[Atheris Online Compiler](https://github.com/ghulamnaseeruddin/Atheris-Online-Compiler)** | [atheris-online-compiler...railway.app](https://atheris-online-compiler-by-naseer-production.up.railway.app) | `JavaScript` |
+
 | **[Atheris Hotel Web](https://github.com/ghulamnaseeruddin/Atheris-Hotel-Web)** | — | `JavaScript` |
 | **[Ludhiana VCC](https://github.com/ghulamnaseeruddin/Ludhiana-VCC)** | [ludhiana-vcc...workers.dev](https://ludhiana-vcc-by-ghulam-naseeruddin.ghulam-naseeruddin.workers.dev) | `JavaScript` |
 | **[E-Commerce Store](https://github.com/ghulamnaseeruddin/naseer-s-ecommerce-store)** | [naseer-s-ecommerce-store...workers.dev](https://naseer-s-ecommerce-store.ghulamnaseeruddin555.workers.dev) | `TypeScript` |
