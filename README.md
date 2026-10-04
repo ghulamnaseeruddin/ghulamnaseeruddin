@@ -83,7 +83,7 @@ and I like figuring out how things work under the hood.
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="httpls://raw.githubusercontent.com/ghulamnaseeruddin/ghulamnaseeruddin/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ghulamnaseeruddin/ghulamnaseeruddin/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghulamnaseeruddin/ghulamnaseeruddin/output/snake.svg">
   <img src="https://raw.githubusercontent.com/ghulamnaseeruddin/ghulamnaseeruddin/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
