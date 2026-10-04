@@ -126,7 +126,7 @@ and I like figuring out how things work under the hood.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/ghulamnaseeruddin/Yes-Bike">
+  <a href="https://github.com/ghulamnaseeruddin/Yes-bike">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Yes-bike-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Yes-bike-light.svg">
