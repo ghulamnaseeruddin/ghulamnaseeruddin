@@ -13,6 +13,7 @@
     { "repo": "taskflow",
       "description": "A task management application for organizing and tracking work." },
     { "repo": "Calculator",
-      "description": "My first project — a calculator app." }
+      "description": "My first project — a calculator app." },
+     { "repo": "Yes-Bike", "description": "An online bike store with product listings, cart, and checkout flow." } 
   ]
 }
