@@ -14,6 +14,6 @@
       "description": "A task management application for organizing and tracking work." },
     { "repo": "Calculator",
       "description": "My first project — a calculator app." },
-     { "repo": "Yes-Bike", "description": "An online bike store with product listings, cart, and checkout flow." } 
+     { "repo": "Yes-Bike", "description": "An end-to-end online bike store — browse, cart, and checkout, built with a modern full-stack TypeScript architecture." } 
   ]
 }
