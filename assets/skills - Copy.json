@@ -1,0 +1,31 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Python", "value": 88 },
+    { "label": "C++", "value": 60 },
+    { "label": "Java", "value": 55 },
+    { "label": "HTML", "value": 85 },
+    { "label": "CSS", "value": 80 },
+    { "label": "JavaScript", "value": 75 },
+    { "label": "TypeScript", "value": 65 },
+    { "label": "React", "value": 70 },
+    { "label": "Node.js", "value": 68 },
+    { "label": "REST API", "value": 82 },
+    { "label": "FastAPI", "value": 78 },
+    { "label": ".NET", "value": 50 },
+    { "label": "PostgreSQL", "value": 72 },
+    { "label": "SQLite", "value": 70 },
+    { "label": "MongoDB", "value": 68 },
+    { "label": "Git", "value": 85 },
+    { "label": "GitHub", "value": 85 },
+    { "label": "Docker", "value": 65 },
+    { "label": "Flutter", "value": 45 },
+    { "label": "Cloudflare", "value": 55 },
+    { "label": "Vercel", "value": 60 },
+    { "label": "Railway", "value": 55 },
+    { "label": "Render", "value": 55 },
+    { "label": "Google Cloud", "value": 65 },
+    { "label": "AWS", "value": 58 },
+    { "label": "Azure", "value": 55 }
+  ]
+}
